@@ -6,10 +6,13 @@ Hello geeks. It's my first real-life-based project, A very basic one made with t
 
 **_3Main components:_**
 • ROCK 
+
         The rock is when you place your hand into the form of a simple fist.
-• PAPER 
+• PAPER
+
         The paper is when you place your hand in an outstretched position.
-• SCISSORS 
+• SCISSORS
+
         This is when you hold your fist with your index and middle finger pointing outwards in a V shape.
 
 **_The Purpose of Rock Paper Scissors_**
