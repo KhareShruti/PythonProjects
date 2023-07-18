@@ -5,6 +5,7 @@ Rock Paper Scissors Game
 Hello geeks. It's my first real-life-based project, A very basic one made with the help of the Control structure of Python. A small guide for this game would be:
 
 **_3Main components:_**
+
 • ROCK 
 
         The rock is when you place your hand into the form of a simple fist.
