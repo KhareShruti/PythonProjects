@@ -6,3 +6,4 @@ Here is the list :-
 
 1. A Quiz Game
 2. Rock Paper Scissors game
+3. Password Generator
